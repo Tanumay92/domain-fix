@@ -1,0 +1,21 @@
+{
+  "name": "domain-fix",
+  "version": "1.0.0",
+  "description": "\"This is a package is to use particular domain for your api server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanumay92/domain-fix.git"
+  },
+  "author": "Tanumay Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanumay92/domain-fix/issues"
+  },
+  "homepage": "https://github.com/Tanumay92/domain-fix#readme",
+  "dependencies": {
+  }
+}
