@@ -24,5 +24,4 @@ let domainCheck = domainFix(domainList,request); // domainList should be an arra
 ``` html
 <h3> Author</h3><br/>
 <b>Tanumay Ghosh</b><br/>
-
 ```
